@@ -44,29 +44,3 @@ public class Count_of_sub_strings_of_length_n_possible_from_the_given_string{
 
 
 
-
-//---------------------------Approach : 02--------------------
-
-
-// Time Complexity : O(n^3)
-// Space Complexity : O(n)
-
-
-// Enter the String : computer
-// Enter the Length of M : 4
-// Substring with length 4 is : comp
-// Substring with length 4 is : ompu
-// Substring with length 4 is : mput
-// Substring with length 4 is : pute
-// Substring with length 4 is : uter
-// The possible substring is : 5
-
-// Enter the String : jgec
-// Enter the Length of M : 2
-// Substring with length 2 is : jg
-// Substring with length 2 is : ge
-// Substring with length 2 is : ec
-// The possible substring is : 3
-
-
-
