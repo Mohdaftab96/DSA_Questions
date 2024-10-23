@@ -12,7 +12,7 @@
 
 public class Number_of_even_substrings_in_a_string_of_digits{
 
-    static int evenSubstringAtLastIndex(String str,int n){
+    static int evenNumSubstring(String str,int n){
 
         String subStr = "";
         int count = 0;
@@ -34,9 +34,9 @@ public class Number_of_even_substrings_in_a_string_of_digits{
         String str = "154";
         int n = str.length();
 
-//        evenSubstringAtLastIndex(str, n);
+//        evenNumSubstring(str, n);
 
-        System.out.println("Number of even substrings  in a string of digits : " + evenSubstringAtLastIndex(str, n));
+        System.out.println("Number of even substrings  in a string of digits : " + evenNumSubstring(str, n));
 //
     }
 }
