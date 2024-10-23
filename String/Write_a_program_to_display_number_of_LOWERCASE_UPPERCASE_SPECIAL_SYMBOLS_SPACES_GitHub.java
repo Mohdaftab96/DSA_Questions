@@ -24,7 +24,7 @@
 
 
 import java.util.Scanner;
-public class Write_a_program_to_display_number_of_LOWERCASE_UPPERCASE_SPECIAL_SYMBOLS_SPACES_GitHub {
+public class Write_a_program_to_display_number_of_LOWERCASE_UPPERCASE_SPECIAL_SYMBOLS_SPACES {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
