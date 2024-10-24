@@ -11,7 +11,7 @@
 public class Print_Longest_Palindrome_Word_in_a_sentence{
 
 
-      static boolean isPalindrome(String s){
+      static boolean isPal(String s){
 
            
             String str1 = s.toLowerCase();
@@ -37,17 +37,17 @@ public class Print_Longest_Palindrome_Word_in_a_sentence{
             // System.out.println(n);
 
 
-            String maxCount = "";
+            String maxSubstring = "";
             for(int i=0; i<n; i++){
-                  if(isPalindrome(arr[i])){
+                  if(isPal(arr[i])){
                         String subStr = arr[i];
-                        if(subStr.length() > maxCount.length()){
-                              maxCount = subStr;
+                        if(subStr.length() > maxSubstring.length()){
+                              maxSubstring = subStr;
                         }
                   }
             }
 
-            return maxCount;
+            return maxSubstring;
       }
 
 
