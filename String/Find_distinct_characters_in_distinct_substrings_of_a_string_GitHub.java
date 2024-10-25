@@ -5,6 +5,12 @@
 // String = "AAAB"
 // count of distinct characters : 10
 
+// String = "ABCDEA"
+// count of distinct characters : 54
+
+// String = "ABC"
+// count of distinct characters : 10
+
 
 //==========Method - 01================
  
