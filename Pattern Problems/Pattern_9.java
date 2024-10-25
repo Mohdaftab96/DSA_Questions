@@ -18,7 +18,7 @@ public class Pattern_9 {
             int n1 = sc.nextInt(); // n1 = 4
 
             System.out.print("Enter the Cols : ");
-            int n2 = sc.nextInt(); // n2 = 4
+            int n2 = sc.nextInt(); // n2 = 6
 
 
             for(int i=1; i<=n1; i++){
