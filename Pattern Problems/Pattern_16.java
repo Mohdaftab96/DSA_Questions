@@ -8,8 +8,6 @@
 // 1
 
 
-//-------------------------------Problem 01-------------------------
-
  
 import java.util.Scanner;
 public class Pattern_16{
