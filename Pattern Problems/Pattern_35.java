@@ -18,12 +18,11 @@ public class Pattern_35{
         int n = sc.nextInt(); 
         
        
-       int a = 2;
-        int count = 1;
+       int count = 2;
         for(int i=1; i<=n; i++){
             for(int j=1; j<=n; j++){
-                    System.out.print(a * count + " ");
-                    count = count + 1;
+                    System.out.print(count + " ");
+                    count = count + 2;
             }
             System.out.println();
         }
