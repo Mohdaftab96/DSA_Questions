@@ -23,8 +23,16 @@ public class find_the_FACTORIAL_of_a_given_number {
                   fact = fact * i;
                   i++;
             }
-
             System.out.print(n + " factorial is : " + fact);
+
+
+            
+            // int j = n;
+            // while(n>0){
+            //       fact = fact * n;
+            //       n--;
+            // }
+            // System.out.print(j + " factorial is : " + fact);
 
             
 
