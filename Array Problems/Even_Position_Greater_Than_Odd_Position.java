@@ -58,7 +58,7 @@ public class Even_Position_Greater_Than_Odd_Position{
 
 
 
-//=============Method - 01=======Tc: O(n^2)==================
+//=============Method - 02=======Tc: O(n^2)==================
 
 
 // Enter Array length : 6
