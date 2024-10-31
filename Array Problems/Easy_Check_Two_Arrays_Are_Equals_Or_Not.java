@@ -5,21 +5,21 @@
 // Enter the Array_01 Input : 1 2 3 4
 // Enter the Array_01 Length : 4
 // Enter the Array_01 Input : 1 2 3 4
-// Both array are equal (becoz length and Element both  are same)
+// Both array are equal (becoz length and Order of both elements of both Arrays are same  )
 
 
 // Enter the Array_01 Length : 5
 // Enter the Array_01 Input : 1 2 3 4 5
 // Enter the Array_01 Length : 4
 // Enter the Array_01 Input : 4 3 2 1
-// Both array are not equal (becoz length of both arrays are different )
+// Both array are not equal (becoz length and Order of both elements of both Arrays are different )
 
 
 // Enter the Array_01 length : 6
 // Enter the Array_01 Element : 1 3 4 2 5 6
 // Enter the Array_02 length : 6
 // Enter the Array_01 Element : 1 4 2 3 4 5 6
-// Both arrays are not Same (becoz length of both arrays are same but order of both arrays are different)
+// Both arrays are not Same (becoz length of both Arrays are same but Order of elements of both Arrays are different)
 
 
 
