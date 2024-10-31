@@ -20,7 +20,7 @@ public class Even_Position_Even_Element {
         }
 
         System.out.print("Even Index Even Elements is : ");
-        int temp;
+
         for(int i=0; i<n; i++){
                 if(i%2 == 0 && arr[i]%2 == 0){
                     System.out.print(arr[i] + " ");
