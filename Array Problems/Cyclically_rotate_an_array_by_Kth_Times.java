@@ -11,7 +11,7 @@
 // Cyclically rotate an array by Kth Times : 6 7 8 4 5 
 
 
-public class Cyclically_rotate_an_array_by_Kth_Times {
+public class Cyclically_Right_Rotation_an_array_by_Kth_Times {
 
       static void rightRotation(int[] arr, int n, int k){
 
