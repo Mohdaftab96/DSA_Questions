@@ -15,12 +15,12 @@ public class Cyclically_Left_Rotation_an_array_by_one {
 
       static void LeftRotationByOne(int[] arr, int n){
 
-            // for(int i=0; i<k; i++){
+            
                   int temp = arr[0];
                   for(int i=0; i<n-1; i++){
                         arr[i] = arr[i+1]; 
                   }arr[n-1] = temp;
-            // }
+       
 
 
             System.out.print("Cyclically Left Rotation an array by one : ");
