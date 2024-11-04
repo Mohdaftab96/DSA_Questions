@@ -16,7 +16,7 @@
 
 public class Subarray_with_Given_Sum {
 
-      static void countOccurrences(int[] arr, int sum, int n){
+      static void subarraySum(int[] arr, int sum, int n){
 
             boolean flag = false;
             int x = 0;
@@ -74,7 +74,7 @@ public class Subarray_with_Given_Sum {
             int n = arr.length;
             
 
-            countOccurrences(arr, sum, n);
+            subarraySum(arr, sum, n);
 
 
             
