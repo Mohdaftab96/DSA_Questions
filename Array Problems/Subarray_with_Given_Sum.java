@@ -1,4 +1,6 @@
 
+// Note. In case we found multiple subarrays, return the subarray indexes which come first on moving from left to right. 
+//       If no such subarray exists return an array consisting of element -1.
 
 // arr =  {15, 2, 4, 8, 9, 5, 10, 23};
 // int sum = 23;
@@ -16,7 +18,7 @@
 
 public class Subarray_with_Given_Sum {
 
-      static void subarraySum(int[] arr, int sum, int n){
+      static void subarraySumWhichComeFirst(int[] arr, int sum, int n){
 
             boolean flag = false;
             int x = 0;
@@ -74,7 +76,7 @@ public class Subarray_with_Given_Sum {
             int n = arr.length;
             
 
-            subarraySum(arr, sum, n);
+            subarraySumWhichComeFirst(arr, sum, n);
 
 
             
