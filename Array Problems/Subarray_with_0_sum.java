@@ -3,8 +3,8 @@
 // arr = {4, 2, -3, 1, 6};
 // Found a subarray with 0 sum  (1 to 3)
 
-// arr = {4, 2, -3, 1, 6};
-// Found a subarray with 0 sum  (1 to 3)
+// arr = {4, 2, 0, 1, 6};
+// Found a subarray with 0 sum  (at index 2)
 
 // arr = {-3, 2, 3, 1, 6}; 
 // No Such Sub Array Exists!
