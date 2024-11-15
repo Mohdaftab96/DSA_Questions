@@ -8,7 +8,7 @@
 
 
 // String str = "gfg";
-// Output: 6 (g, gf, f, fg, g)
+// Output: 5 (g, gf, f, fg, g)
 
 
 
