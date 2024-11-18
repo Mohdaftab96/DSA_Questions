@@ -25,7 +25,7 @@
 
 public class kadens_Algorithm{
 
-    static int maxSubarray(int[] arr){
+    static int maxSubarraySum(int[] arr){
 
           int n = arr.length;
 
@@ -60,8 +60,8 @@ public class kadens_Algorithm{
           int[] arr = {1, 2, 3, -2, 5};
           // int[] arr = {-2, -3, 4, -1, -2, 1, 5, -3};
 
-          // maxSubarray(arr);
-          System.out.println("Maximum contiguous sum is : " + maxSubarray(arr));
+          // maxSubarraySum(arr);
+          System.out.println("Maximum contiguous sum is : " + maxSubarraySum(arr));
 
           
     }
