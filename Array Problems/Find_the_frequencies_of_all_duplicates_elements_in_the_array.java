@@ -13,7 +13,7 @@
 import java.util.Arrays;
 public class Find_the_frequencies_of_all_duplicates_elements_in_the_array {
 
-      static void findDublicateElements(int[] arr){
+      static void findRepeating(int[] arr){
 
             int n = arr.length;
 
@@ -39,7 +39,7 @@ public class Find_the_frequencies_of_all_duplicates_elements_in_the_array {
             // int[] arr = {2, 3, 4, 5, 4, 6, 4, 7, 4, 5, 6, 6};
             int n = arr.length;
             Arrays.sort(arr); 
-            findDublicateElements(arr);
+            findRepeating(arr);
             
 
             
