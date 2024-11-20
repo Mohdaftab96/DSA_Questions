@@ -21,7 +21,7 @@
 
 public class Floor_in_a_Sorted_Array{
 
-      static int linearSearch(int[] arr, int n, int target){
+      static int floorSearch(int[] arr, int n, int target){
    
             int x = -1;
             for(int i=0; i<n; i++){
@@ -52,7 +52,7 @@ public class Floor_in_a_Sorted_Array{
             int n = arr.length;
             
 
-            int index = linearSearch(arr, n, target);
+            int index = floorSearch(arr, n, target);
 
             if(index == -1){
                   System.out.println("Floor of " + target
